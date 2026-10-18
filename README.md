@@ -17,7 +17,7 @@ ML projects implemented using TensorFlow, Scikit-learn and other Python librarie
 
 ### 1.  ML - Statistics
 Notebook: `Machine_Learning_Statistics.ipynb`  
-A foundational notebook exploring statistical techniques used in machine learning including distributions, hypothesis testing and data visualization.
+Statistical techniques used in machine learning including distributions, hypothesis testing and data visualization.
 
 
 ### 2.  Classification on Imbalanced Data
