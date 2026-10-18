@@ -23,10 +23,7 @@ Statistical techniques used in machine learning including distributions, hypothe
 ### 2.  Classification on Imbalanced Data
 Notebook: `Classification_on_imbalanced_data.ipynb`  
 A classification project focusing on handling imbalanced datasets 
-
-
-### 3.  Credit Card Fraud Detection
-Notebook: `Credit_Card_Fraud_Detection.ipynb`  
+### 3.  Credit Card Fraud Detection 
 A supervised ML project using TensorFlow and Scikit-learn to detect fraudulent credit card transactions using imbalanced binary classification.
 
 
